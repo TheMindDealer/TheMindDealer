@@ -1,82 +1,102 @@
-<!-- 🚀 MrKanha's Animated GitHub Profile -->
-
-<!-- 🔤 Typing Animation Header -->
+<!-- 🔥 Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=800&lines=🔥+Welcome+to+MrKanha's+GitHub;⚡+Automation,+AI+%26+Termux+Mastery;🎯+Building+Without+a+PC" alt="Typing SVG" />
-</p>
-
-<!-- 🔥 Fire GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=800&center=true&vCenter=true&lines=Hey!+I'm+Kanha+%F0%9F%91%8B;Tech+Wizard+%7C+Voice+Hacker+%7C+AI+Automator;Building+with+Replit+%2B+Termux+like+a+Beast!;Welcome+to+My+World+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- 👤 About Section -->
-<div align="center" style="border: 2px dashed orange; padding: 20px; border-radius: 15px; box-shadow: 0 0 20px orange;">
-  <h2>🔥 MrKanha — The AI Operative 🔥</h2>
-  <p>💡 Automating life using mobile-first tools like <strong>Termux, Replit, Puppeteer</strong>, and <strong>Discord Bots</strong></p>
-  <p>💻 I code from my phone. I build systems that never sleep. I master my voice.</p>
-  <p>⚙️ Focused on: Mobile automation • AI assistants • Voice fluency • Bot creation</p>
-</div>
+## 👋 Who Am I?
+
+🎩 **Name:** MrKanha (aka The AI Operative)  
+📍 **From:** India 🇮🇳  
+🧠 **Specialties:** Hacking with Termux, Discord Automation, Voice Mastery, Aternos Control  
+💡 **Philosophy:** Automate. Learn. Sell. Evolve.
 
 ---
 
-### 🔥 Skill Bars (Animated GIF Style)
+## ⚙️ My Power Stack
+
+| Tech | Tools |
+|------|-------|
+| ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | Discord Bots |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Replit Magic |
+| ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white) | Termux Scripting |
+| ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white) | Browser Automation |
+| ![Instagrapi](https://img.shields.io/badge/Instagrapi-FF2D55?style=flat&logo=instagram&logoColor=white) | Instagram Bots |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | GPT-4 AI Control |
+
+---
+
+## 🧠 Skill Meters (Animated)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/RM2qFNLPMpS4s/giphy.gif" width="300" title="Termux: 60%" />
-  <img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" width="300" title="Replit: 85%" />
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="300" title="Discord.js: 65%" />
-  <img src="https://media.giphy.com/media/3o6ZsZZpTYmvJ6Szf6/giphy.gif" width="300" title="Python: 40%" />
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="300" title="Instagram Automation: 65%" />
+  <img src="https://progress-bar.dev/60/?title=Termux&color=ff8800&width=300" />
+  <img src="https://progress-bar.dev/85/?title=Replit&color=44cc88&width=300" />
+  <img src="https://progress-bar.dev/70/?title=Discord.js&color=7289DA&width=300" />
+  <img src="https://progress-bar.dev/45/?title=Python&color=3776AB&width=300" />
+  <img src="https://progress-bar.dev/65/?title=Instagram%20Automation&color=FF2D55&width=300" />
 </p>
 
 ---
 
-### 🏅 Badges of Fire
+## 🔧 Current Projects
 
-![🔥 Termux King](https://img.shields.io/badge/🔥-Termux%20King-orange)
-![Replit Hacker](https://img.shields.io/badge/Replit-Hacker-informational)
-![Automation Builder](https://img.shields.io/badge/Automation-Builder-blue)
-![AI Powered](https://img.shields.io/badge/AI%20Mastermind-⚡️-blueviolet)
-![Minecraft Control](https://img.shields.io/badge/Minecraft-Server%20Automation-green)
-
----
-
-### 🛠️ Projects That Never Sleep
-
-- 🤖 Replit + Termux + Discord AI automation system  
-- 🏋️ Auto-posting Instagram fitness content (AI + Scheduler)  
-- 🎮 Aternos Minecraft control via Puppeteer  
-- 🌀 Replit auto-run + watchdog bot  
-- 🔁 AFK Bot with reconnect + Discord notifier  
-- 🎤 Voice AI trainer for confidence and pitch control  
-- 🧠 Mobile-only AI agents with Telegram/Discord interface
+- 🤖 Building a full Replit + Termux + Discord AI automation system  
+- 📸 Auto-posting Instagram fitness content using AI  
+- 🎮 Controlling Aternos Minecraft servers with Puppeteer  
+- 📲 Designing mobile-only bots & tools with no PC  
+- 🧠 Self-training in voice fluency, manipulation, & public speaking
 
 ---
 
-### 🧠 Skills & Stack
+## 🧩 My Skill Tree
 
-- ⚙️ Termux scripting, Bash, Node.js, Python  
-- 🌍 Puppeteer automation (browser control)  
-- 📦 Replit hosting, CRON bots, API building  
-- 🤖 Discord.js automation and server integrations  
-- 🧠 Prompt engineering + voice command tools  
-
----
-
-### 🌐 Connect with Me
-
-- 📸 Instagram: [@mrkanhusir8](https://instagram.com/mrkanhusir8)
-- 🌍 Website 1: [mrkanha.likesyou.org](https://mrkanha.likesyou.org)
-- 🌍 Website 2: [mrkanha.com](https://mrkanha.com)
-- 🧠 Discord: DM via Instagram
+- 🎯 Objection Handling  
+- 🎶 Flute Playing & Emotional Expression  
+- 🚀 AI Prompt Engineering  
+- 💬 Relationship Dynamics & Deep Conversations  
+- 🧙‍♂️ 48 Laws of Power Knowledge (lite)  
+- 🧠 Mindset & Self-Mastery
 
 ---
 
-### 💬 Quote
+## 📊 GitHub Stats
 
-```markdown
-“Hack the system. Automate it. Master it. Teach it.”  
-“I don’t follow the crowd — I build the damn road.” ☘️
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrkanhusir8&show_icons=true&theme=radical&hide_border=true" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrkanhusir8&theme=radical&hide_border=true" width="47%"/>
+</p>
+
+---
+
+## 🧠 Philosophy
+
+> “Learn the system. Hack it. Own it. Then teach it.”  
+> I don’t follow the crowd — I build the road. 🧩
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://instagram.com/mrkanhusir8">
+    <img src="https://img.shields.io/badge/@mrkanhusir8-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@yourchannel">
+    <img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/yourinvite">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 💬 _“Don’t just use AI — become the human AI wants to learn from.”_
+
+---
+
+<!-- 🔥 Outro Fire Divider -->
+<p align="center">
+  🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
+</p>
